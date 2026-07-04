@@ -13,6 +13,7 @@ Disease detection with severity
 Treatment suggestions (organic and chemical)
 Watering, sunlight, and care guidance
 
-=======Tech=========
+=======Tech=======
+
 HTML / CSS / JavaScript
 Dify AI agent for plant diagnosis
